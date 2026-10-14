@@ -1,0 +1,19 @@
+# Environment variables (SANGAT PENTING)
+.env
+*.env
+
+# Executable files / Hasil Build Go
+*.exe
+app.exe
+toko_kue.exe
+
+# Folder upload / media lokal (opsional, sesuaikan kebutuhan)
+uploads/
+
+# Dependency & Vendor
+vendor/
+
+# Configuration IDE & OS
+.vscode/
+.idea/
+.DS_Store
